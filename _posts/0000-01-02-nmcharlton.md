@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+**YOU MUST CONSTRUCT ADDITIONAL PYLONS**
+
 Use the left arrow to go back!
